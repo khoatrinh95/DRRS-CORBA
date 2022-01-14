@@ -1,0 +1,3650 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-12T19:52:53</date>
+  <millis>1634082773350</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-12T19:53:24</date>
+  <millis>1634082804636</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-12T20:02:15</date>
+  <millis>1634083335996</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-12T20:03:08</date>
+  <millis>1634083388621</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-12T20:03:11</date>
+  <millis>1634083391714</millis>
+  <sequence>3</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-12T21:21:02</date>
+  <millis>1634088062296</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-12T21:23:17</date>
+  <millis>1634088197670</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-12T21:28:38</date>
+  <millis>1634088518396</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-12T21:28:41</date>
+  <millis>1634088521855</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T15:43:27</date>
+  <millis>1634499807738</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T15:44:22</date>
+  <millis>1634499862463</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-17T15:44:28</date>
+  <millis>1634499868780</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T15:53:00</date>
+  <millis>1634500380341</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T15:54:13</date>
+  <millis>1634500453005</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-17T15:54:16</date>
+  <millis>1634500456616</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T16:22:25</date>
+  <millis>1634502145137</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T16:23:12</date>
+  <millis>1634502192527</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T16:27:33</date>
+  <millis>1634502453730</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T16:28:39</date>
+  <millis>1634502519663</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T16:30:48</date>
+  <millis>1634502648985</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T16:34:17</date>
+  <millis>1634502857903</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-17T16:34:51</date>
+  <millis>1634502891061</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 101
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T16:40:41</date>
+  <millis>1634503241248</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-17T16:41:03</date>
+  <millis>1634503263799</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 101
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T21:27:49</date>
+  <millis>1634520469615</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T21:28:24</date>
+  <millis>1634520504460</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T21:28:34</date>
+  <millis>1634520514773</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-17T21:29:14</date>
+  <millis>1634520554365</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T21:29:14</date>
+  <millis>1634520554366</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T21:30:22</date>
+  <millis>1634520622918</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-17T21:30:26</date>
+  <millis>1634520626814</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T21:30:26</date>
+  <millis>1634520626815</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T21:30:34</date>
+  <millis>1634520634218</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	FAIL</message>
+</record>
+<record>
+  <date>2021-10-17T21:30:34</date>
+  <millis>1634520634219</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	FAIL</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T21:39:16</date>
+  <millis>1634521156853</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-17T21:39:20</date>
+  <millis>1634521160273</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T21:39:20</date>
+  <millis>1634521160275</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T21:39:37</date>
+  <millis>1634521177438</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-17T21:39:46</date>
+  <millis>1634521186146</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T21:39:46</date>
+  <millis>1634521186148</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T21:49:08</date>
+  <millis>1634521748591</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-17T21:49:12</date>
+  <millis>1634521752104</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T21:49:12</date>
+  <millis>1634521752106</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T21:49:48</date>
+  <millis>1634521788852</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-17T21:49:57</date>
+  <millis>1634521797587</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T21:49:57</date>
+  <millis>1634521797594</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 002
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T21:49:57</date>
+  <millis>1634521797596</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 003
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T21:49:57</date>
+  <millis>1634521797598</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 001
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T21:49:57</date>
+  <millis>1634521797601</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 002
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T21:49:57</date>
+  <millis>1634521797603</millis>
+  <sequence>9</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 003
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T21:49:57</date>
+  <millis>1634521797604</millis>
+  <sequence>10</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 001
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T21:49:57</date>
+  <millis>1634521797606</millis>
+  <sequence>11</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 002
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T21:49:57</date>
+  <millis>1634521797608</millis>
+  <sequence>12</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 003
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T21:50:11</date>
+  <millis>1634521811431</millis>
+  <sequence>13</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>deleteRoom</method>
+  <thread>13</thread>
+  <message>Room deletion: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T21:50:23</date>
+  <millis>1634521823843</millis>
+  <sequence>14</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>deleteRoom</method>
+  <thread>13</thread>
+  <message>Room deletion: 001
+	Date: 12/01/2021
+	FAIL</message>
+</record>
+<record>
+  <date>2021-10-17T21:50:49</date>
+  <millis>1634521849653</millis>
+  <sequence>15</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Time slots creation: 002
+	Date: 12/02/2021
+	FAIL</message>
+</record>
+<record>
+  <date>2021-10-17T21:51:08</date>
+  <millis>1634521868996</millis>
+  <sequence>16</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>deleteRoom</method>
+  <thread>13</thread>
+  <message>Room deletion: 002
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T22:13:48</date>
+  <millis>1634523228283</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-17T22:22:28</date>
+  <millis>1634523748318</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:22:28</date>
+  <millis>1634523748324</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 002
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:22:28</date>
+  <millis>1634523748325</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 003
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:22:28</date>
+  <millis>1634523748327</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 001
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:22:28</date>
+  <millis>1634523748328</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 002
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:22:28</date>
+  <millis>1634523748330</millis>
+  <sequence>9</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 003
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:22:28</date>
+  <millis>1634523748332</millis>
+  <sequence>10</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 001
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:22:28</date>
+  <millis>1634523748334</millis>
+  <sequence>11</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 002
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:22:28</date>
+  <millis>1634523748336</millis>
+  <sequence>12</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>13</thread>
+  <message>Room creation: 003
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:22:35</date>
+  <millis>1634523755739</millis>
+  <sequence>13</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>deleteRoom</method>
+  <thread>13</thread>
+  <message>Room deletion: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:24:31</date>
+  <millis>1634523871032</millis>
+  <sequence>14</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>13</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 26105
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:24:39</date>
+  <millis>1634523879645</millis>
+  <sequence>15</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>cancelBooking</method>
+  <thread>13</thread>
+  <message>Booking cancellation: 
+	Student ID: DVLS1234
+	Booking ID: 12000
+	FAIL</message>
+</record>
+<record>
+  <date>2021-10-17T22:24:43</date>
+  <millis>1634523883477</millis>
+  <sequence>16</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>cancelBooking</method>
+  <thread>13</thread>
+  <message>Booking cancellation: 
+	Student ID: DVLS1234
+	Booking ID: 26105
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T22:42:05</date>
+  <millis>1634524925440</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-17T22:42:17</date>
+  <millis>1634524937941</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:42:17</date>
+  <millis>1634524937943</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:42:31</date>
+  <millis>1634524951987</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	FAIL</message>
+</record>
+<record>
+  <date>2021-10-17T22:42:31</date>
+  <millis>1634524951995</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:42:31</date>
+  <millis>1634524951999</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:42:32</date>
+  <millis>1634524952002</millis>
+  <sequence>9</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:42:32</date>
+  <millis>1634524952004</millis>
+  <sequence>10</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:42:32</date>
+  <millis>1634524952006</millis>
+  <sequence>11</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:42:32</date>
+  <millis>1634524952009</millis>
+  <sequence>12</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:42:32</date>
+  <millis>1634524952011</millis>
+  <sequence>13</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:42:32</date>
+  <millis>1634524952013</millis>
+  <sequence>14</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:42:39</date>
+  <millis>1634524959187</millis>
+  <sequence>15</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>deleteRoom</method>
+  <thread>14</thread>
+  <message>Room deletion: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-17T22:42:52</date>
+  <millis>1634524972355</millis>
+  <sequence>16</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>deleteRoom</method>
+  <thread>14</thread>
+  <message>Room deletion: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:21:41</date>
+  <millis>1634617301985</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:21:56</date>
+  <millis>1634617316596</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-19T00:22:10</date>
+  <millis>1634617330748</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:22:10</date>
+  <millis>1634617330752</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:22:10</date>
+  <millis>1634617330754</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:22:10</date>
+  <millis>1634617330756</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:22:10</date>
+  <millis>1634617330758</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:22:10</date>
+  <millis>1634617330760</millis>
+  <sequence>9</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:22:10</date>
+  <millis>1634617330762</millis>
+  <sequence>10</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:22:10</date>
+  <millis>1634617330764</millis>
+  <sequence>11</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:22:10</date>
+  <millis>1634617330766</millis>
+  <sequence>12</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:23:34</date>
+  <millis>1634617414858</millis>
+  <sequence>13</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>14</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 31391
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:28:05</date>
+  <millis>1634617685369</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-19T00:28:13</date>
+  <millis>1634617693195</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:28:13</date>
+  <millis>1634617693199</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:28:13</date>
+  <millis>1634617693201</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:28:13</date>
+  <millis>1634617693203</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:28:13</date>
+  <millis>1634617693205</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:28:13</date>
+  <millis>1634617693207</millis>
+  <sequence>9</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:28:13</date>
+  <millis>1634617693208</millis>
+  <sequence>10</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:28:13</date>
+  <millis>1634617693210</millis>
+  <sequence>11</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:28:13</date>
+  <millis>1634617693211</millis>
+  <sequence>12</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:28:35</date>
+  <millis>1634617715185</millis>
+  <sequence>13</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>14</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 95477
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:29:48</date>
+  <millis>1634617788671</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-19T00:29:54</date>
+  <millis>1634617794481</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:29:54</date>
+  <millis>1634617794485</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:29:54</date>
+  <millis>1634617794487</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:29:54</date>
+  <millis>1634617794490</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:29:54</date>
+  <millis>1634617794493</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:29:54</date>
+  <millis>1634617794494</millis>
+  <sequence>9</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:29:54</date>
+  <millis>1634617794496</millis>
+  <sequence>10</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:29:54</date>
+  <millis>1634617794498</millis>
+  <sequence>11</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:29:54</date>
+  <millis>1634617794499</millis>
+  <sequence>12</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:30:15</date>
+  <millis>1634617815142</millis>
+  <sequence>13</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>14</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 37370
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:30:32</date>
+  <millis>1634617832495</millis>
+  <sequence>14</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>16</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 59682
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:30:32</date>
+  <millis>1634617832503</millis>
+  <sequence>15</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>changeReservation</method>
+  <thread>14</thread>
+  <message>Cannot connect to UDP Server</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:34:37</date>
+  <millis>1634618077939</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-19T00:34:45</date>
+  <millis>1634618085762</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:34:45</date>
+  <millis>1634618085765</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:34:45</date>
+  <millis>1634618085766</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>14</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 27117
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:34:45</date>
+  <millis>1634618085774</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>16</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 489
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:34:45</date>
+  <millis>1634618085779</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>changeReservation</method>
+  <thread>14</thread>
+  <message>Cannot connect to UDP Server</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:36:19</date>
+  <millis>1634618179879</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-19T00:36:22</date>
+  <millis>1634618182290</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:36:22</date>
+  <millis>1634618182292</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:36:22</date>
+  <millis>1634618182294</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>14</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 62311
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:36:22</date>
+  <millis>1634618182300</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>16</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 49214
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:36:22</date>
+  <millis>1634618182305</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>changeReservation</method>
+  <thread>14</thread>
+  <message>Cannot connect to UDP Server</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:39:22</date>
+  <millis>1634618362646</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-19T00:39:26</date>
+  <millis>1634618366427</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:39:26</date>
+  <millis>1634618366429</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:39:26</date>
+  <millis>1634618366431</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>14</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 36477
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:39:26</date>
+  <millis>1634618366438</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>16</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 64678
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:39:26</date>
+  <millis>1634618366443</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>changeReservation</method>
+  <thread>14</thread>
+  <message>Cannot connect to UDP Server</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:40:30</date>
+  <millis>1634618430747</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-19T00:40:32</date>
+  <millis>1634618432996</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:40:32</date>
+  <millis>1634618432998</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:40:33</date>
+  <millis>1634618433001</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>14</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 4565
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:40:33</date>
+  <millis>1634618433009</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>16</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 81750
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:40:33</date>
+  <millis>1634618433016</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>changeReservation</method>
+  <thread>14</thread>
+  <message>Cannot connect to UDP Server</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:41:24</date>
+  <millis>1634618484044</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-19T00:41:27</date>
+  <millis>1634618487349</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:41:27</date>
+  <millis>1634618487350</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:41:27</date>
+  <millis>1634618487352</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>14</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 55493
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:41:27</date>
+  <millis>1634618487359</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>16</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 49188
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:41:27</date>
+  <millis>1634618487359</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>cancelBooking</method>
+  <thread>16</thread>
+  <message>Booking cancellation: 
+	Student ID: DVLS1234
+	Booking ID: 55493
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:41:27</date>
+  <millis>1634618487364</millis>
+  <sequence>9</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>changeReservation</method>
+  <thread>14</thread>
+  <message>Cannot connect to UDP Server</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:47:15</date>
+  <millis>1634618835499</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-19T00:47:27</date>
+  <millis>1634618847921</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:47:27</date>
+  <millis>1634618847927</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:47:27</date>
+  <millis>1634618847929</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:47:27</date>
+  <millis>1634618847930</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:47:27</date>
+  <millis>1634618847932</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:47:27</date>
+  <millis>1634618847934</millis>
+  <sequence>9</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:47:27</date>
+  <millis>1634618847936</millis>
+  <sequence>10</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:47:27</date>
+  <millis>1634618847937</millis>
+  <sequence>11</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:47:27</date>
+  <millis>1634618847939</millis>
+  <sequence>12</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:47:45</date>
+  <millis>1634618865373</millis>
+  <sequence>13</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>14</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 54706
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:48:06</date>
+  <millis>1634618886054</millis>
+  <sequence>14</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>16</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 61383
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:48:06</date>
+  <millis>1634618886054</millis>
+  <sequence>15</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>cancelBooking</method>
+  <thread>16</thread>
+  <message>Booking cancellation: 
+	Student ID: DVLS1234
+	Booking ID: 54706
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T00:48:06</date>
+  <millis>1634618886061</millis>
+  <sequence>16</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>changeReservation</method>
+  <thread>14</thread>
+  <message>Cannot connect to UDP Server</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T14:29:18</date>
+  <millis>1634668158080</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-19T14:29:27</date>
+  <millis>1634668167905</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:29:27</date>
+  <millis>1634668167907</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:29:27</date>
+  <millis>1634668167908</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>14</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 86448
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:29:27</date>
+  <millis>1634668167917</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>16</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 39357
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:29:27</date>
+  <millis>1634668167917</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>cancelBooking</method>
+  <thread>16</thread>
+  <message>Booking cancellation: 
+	Student ID: DVLS1234
+	Booking ID: 86448
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:29:27</date>
+  <millis>1634668167922</millis>
+  <sequence>9</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>changeReservation</method>
+  <thread>14</thread>
+  <message>Cannot connect to UDP Server</message>
+</record>
+<record>
+  <date>2021-10-19T14:30:04</date>
+  <millis>1634668204052</millis>
+  <sequence>10</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	FAIL</message>
+</record>
+<record>
+  <date>2021-10-19T14:30:04</date>
+  <millis>1634668204060</millis>
+  <sequence>11</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:30:04</date>
+  <millis>1634668204062</millis>
+  <sequence>12</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:30:04</date>
+  <millis>1634668204064</millis>
+  <sequence>13</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:30:04</date>
+  <millis>1634668204066</millis>
+  <sequence>14</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:30:04</date>
+  <millis>1634668204068</millis>
+  <sequence>15</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:30:04</date>
+  <millis>1634668204072</millis>
+  <sequence>16</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:30:04</date>
+  <millis>1634668204075</millis>
+  <sequence>17</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:30:04</date>
+  <millis>1634668204078</millis>
+  <sequence>18</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:30:25</date>
+  <millis>1634668225992</millis>
+  <sequence>19</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>14</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 29887
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:30:31</date>
+  <millis>1634668231639</millis>
+  <sequence>20</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>cancelBooking</method>
+  <thread>14</thread>
+  <message>Booking cancellation: 
+	Student ID: DVLS1234
+	Booking ID: 29887
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:30:47</date>
+  <millis>1634668247795</millis>
+  <sequence>21</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>14</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 78830
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:31:02</date>
+  <millis>1634668262099</millis>
+  <sequence>22</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>17</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	FAIL</message>
+</record>
+<record>
+  <date>2021-10-19T14:31:02</date>
+  <millis>1634668262100</millis>
+  <sequence>23</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>changeReservation</method>
+  <thread>14</thread>
+  <message>Cannot connect to UDP Server</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T14:34:07</date>
+  <millis>1634668447214</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-19T14:34:14</date>
+  <millis>1634668454343</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:34:14</date>
+  <millis>1634668454348</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:34:14</date>
+  <millis>1634668454350</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:34:14</date>
+  <millis>1634668454353</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:34:14</date>
+  <millis>1634668454355</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:34:14</date>
+  <millis>1634668454358</millis>
+  <sequence>9</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:34:14</date>
+  <millis>1634668454360</millis>
+  <sequence>10</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:34:14</date>
+  <millis>1634668454362</millis>
+  <sequence>11</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:34:14</date>
+  <millis>1634668454364</millis>
+  <sequence>12</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:34:31</date>
+  <millis>1634668471170</millis>
+  <sequence>13</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>14</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 59500
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:34:55</date>
+  <millis>1634668495548</millis>
+  <sequence>14</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>16</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 95033
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:34:55</date>
+  <millis>1634668495549</millis>
+  <sequence>15</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>cancelBooking</method>
+  <thread>16</thread>
+  <message>Booking cancellation: 
+	Student ID: DVLS1234
+	Booking ID: 59500
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:34:55</date>
+  <millis>1634668495556</millis>
+  <sequence>16</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>changeReservation</method>
+  <thread>14</thread>
+  <message>Cannot connect to UDP Server</message>
+</record>
+<record>
+  <date>2021-10-19T14:38:07</date>
+  <millis>1634668687913</millis>
+  <sequence>17</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>17</thread>
+  <message>Room booked: 001
+	Date: 12/02/2021
+	Student ID: DVLS1234
+	Booking ID: 1608
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:38:07</date>
+  <millis>1634668687913</millis>
+  <sequence>18</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>cancelBooking</method>
+  <thread>17</thread>
+  <message>Booking cancellation: 
+	Student ID: DVLS1234
+	Booking ID: 95033
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:38:07</date>
+  <millis>1634668687914</millis>
+  <sequence>19</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>changeReservation</method>
+  <thread>14</thread>
+  <message>Cannot connect to UDP Server</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T14:39:20</date>
+  <millis>1634668760129</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-19T14:39:27</date>
+  <millis>1634668767463</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:39:27</date>
+  <millis>1634668767468</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:39:27</date>
+  <millis>1634668767470</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:39:27</date>
+  <millis>1634668767473</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:39:27</date>
+  <millis>1634668767475</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:39:27</date>
+  <millis>1634668767477</millis>
+  <sequence>9</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:39:27</date>
+  <millis>1634668767479</millis>
+  <sequence>10</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:39:27</date>
+  <millis>1634668767480</millis>
+  <sequence>11</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:39:27</date>
+  <millis>1634668767482</millis>
+  <sequence>12</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:39:45</date>
+  <millis>1634668785119</millis>
+  <sequence>13</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>14</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 60138
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:40:07</date>
+  <millis>1634668807266</millis>
+  <sequence>14</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>16</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 51449
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:40:07</date>
+  <millis>1634668807266</millis>
+  <sequence>15</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>cancelBooking</method>
+  <thread>16</thread>
+  <message>Booking cancellation: 
+	Student ID: DVLS1234
+	Booking ID: 60138
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:40:07</date>
+  <millis>1634668807273</millis>
+  <sequence>16</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>changeReservation</method>
+  <thread>14</thread>
+  <message>Cannot connect to UDP Server</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T14:41:40</date>
+  <millis>1634668900562</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-19T14:41:47</date>
+  <millis>1634668907801</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:41:47</date>
+  <millis>1634668907805</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:41:47</date>
+  <millis>1634668907808</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:41:47</date>
+  <millis>1634668907810</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:41:47</date>
+  <millis>1634668907812</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:41:47</date>
+  <millis>1634668907814</millis>
+  <sequence>9</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:41:47</date>
+  <millis>1634668907816</millis>
+  <sequence>10</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:41:47</date>
+  <millis>1634668907817</millis>
+  <sequence>11</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:41:47</date>
+  <millis>1634668907819</millis>
+  <sequence>12</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:42:12</date>
+  <millis>1634668932311</millis>
+  <sequence>13</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>14</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 95464
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:42:24</date>
+  <millis>1634668944578</millis>
+  <sequence>14</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>16</thread>
+  <message>Room booked: 001
+	Date: 12/02/2021
+	Student ID: DVLS1234
+	Booking ID: 95538
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:42:24</date>
+  <millis>1634668944578</millis>
+  <sequence>15</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>cancelBooking</method>
+  <thread>16</thread>
+  <message>Booking cancellation: 
+	Student ID: DVLS1234
+	Booking ID: 95464
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:42:24</date>
+  <millis>1634668944585</millis>
+  <sequence>16</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>changeReservation</method>
+  <thread>14</thread>
+  <message>Cannot connect to UDP Server</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T14:47:24</date>
+  <millis>1634669244441</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-19T14:47:33</date>
+  <millis>1634669253688</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:47:33</date>
+  <millis>1634669253694</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:47:33</date>
+  <millis>1634669253697</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:47:33</date>
+  <millis>1634669253700</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:47:33</date>
+  <millis>1634669253704</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:47:33</date>
+  <millis>1634669253706</millis>
+  <sequence>9</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:47:33</date>
+  <millis>1634669253708</millis>
+  <sequence>10</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:47:33</date>
+  <millis>1634669253710</millis>
+  <sequence>11</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:47:33</date>
+  <millis>1634669253713</millis>
+  <sequence>12</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:47:51</date>
+  <millis>1634669271019</millis>
+  <sequence>13</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>14</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 48908
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:48:12</date>
+  <millis>1634669292301</millis>
+  <sequence>14</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>16</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 38859
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:48:12</date>
+  <millis>1634669292302</millis>
+  <sequence>15</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>cancelBooking</method>
+  <thread>16</thread>
+  <message>Booking cancellation: 
+	Student ID: DVLS1234
+	Booking ID: 48908
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:50:13</date>
+  <millis>1634669413162</millis>
+  <sequence>16</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>17</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 72932
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:50:13</date>
+  <millis>1634669413163</millis>
+  <sequence>17</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>cancelBooking</method>
+  <thread>17</thread>
+  <message>Booking cancellation: 
+	Student ID: DVLS1234
+	Booking ID: 30000
+	FAIL</message>
+</record>
+<record>
+  <date>2021-10-19T14:50:13</date>
+  <millis>1634669413164</millis>
+  <sequence>18</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>cancelBooking</method>
+  <thread>17</thread>
+  <message>Booking cancellation: 
+	Student ID: DVLS1234
+	Booking ID: 72932
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:50:34</date>
+  <millis>1634669434885</millis>
+  <sequence>19</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>18</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 75891
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:50:34</date>
+  <millis>1634669434885</millis>
+  <sequence>20</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>cancelBooking</method>
+  <thread>18</thread>
+  <message>Booking cancellation: 
+	Student ID: DVLS1234
+	Booking ID: 38859
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:51:00</date>
+  <millis>1634669460600</millis>
+  <sequence>21</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>14</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 84770
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T14:51:15</date>
+  <millis>1634669475463</millis>
+  <sequence>22</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>19</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	FAIL</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T14:59:58</date>
+  <millis>1634669998489</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-10-19T15:00:05</date>
+  <millis>1634670005979</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T15:00:05</date>
+  <millis>1634670005984</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T15:00:05</date>
+  <millis>1634670005986</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T15:00:05</date>
+  <millis>1634670005988</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T15:00:05</date>
+  <millis>1634670005990</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T15:00:05</date>
+  <millis>1634670005992</millis>
+  <sequence>9</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T15:00:05</date>
+  <millis>1634670005993</millis>
+  <sequence>10</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 001
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T15:00:05</date>
+  <millis>1634670005994</millis>
+  <sequence>11</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 002
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T15:00:05</date>
+  <millis>1634670005996</millis>
+  <sequence>12</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>14</thread>
+  <message>Room creation: 003
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T15:00:48</date>
+  <millis>1634670048078</millis>
+  <sequence>13</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>14</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 92700
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T15:01:58</date>
+  <millis>1634670118875</millis>
+  <sequence>14</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>17</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 9380
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T15:01:58</date>
+  <millis>1634670118876</millis>
+  <sequence>15</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>cancelBooking</method>
+  <thread>17</thread>
+  <message>Booking cancellation: 
+	Student ID: DVLS1234
+	Booking ID: 92700
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T15:02:24</date>
+  <millis>1634670144734</millis>
+  <sequence>16</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>18</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 2401
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-10-19T15:02:24</date>
+  <millis>1634670144734</millis>
+  <sequence>17</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>cancelBooking</method>
+  <thread>18</thread>
+  <message>Booking cancellation: 
+	Student ID: DVLS1234
+	Booking ID: 9380
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-27T13:17:47</date>
+  <millis>1635355067909</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-27T13:19:12</date>
+  <millis>1635355152430</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Dorval Server created</message>
+</record>

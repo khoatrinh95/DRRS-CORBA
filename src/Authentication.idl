@@ -1,0 +1,8 @@
+module AuthenticationApp
+{
+  interface Authentication
+  {
+    string authorize(in string id, in boolean isAdmin);
+    oneway void shutdown();
+    };
+};

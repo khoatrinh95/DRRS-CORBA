@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-12T21:21:02</date>
+  <millis>1634088062297</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-12T21:23:17</date>
+  <millis>1634088197673</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-12T21:28:38</date>
+  <millis>1634088518398</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T15:43:27</date>
+  <millis>1634499807741</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T15:44:22</date>
+  <millis>1634499862465</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T15:53:00</date>
+  <millis>1634500380344</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T15:54:13</date>
+  <millis>1634500453008</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T16:22:25</date>
+  <millis>1634502145139</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T16:23:12</date>
+  <millis>1634502192529</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T16:27:33</date>
+  <millis>1634502453732</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T16:28:39</date>
+  <millis>1634502519666</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T16:30:48</date>
+  <millis>1634502648988</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T16:34:17</date>
+  <millis>1634502857904</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T16:40:41</date>
+  <millis>1634503241253</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T21:27:49</date>
+  <millis>1634520469617</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T21:28:24</date>
+  <millis>1634520504462</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T21:28:34</date>
+  <millis>1634520514777</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T21:30:22</date>
+  <millis>1634520622920</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T21:39:16</date>
+  <millis>1634521156856</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T21:39:37</date>
+  <millis>1634521177441</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T21:49:08</date>
+  <millis>1634521748593</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T21:49:48</date>
+  <millis>1634521788854</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T22:13:48</date>
+  <millis>1634523228286</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-17T22:42:05</date>
+  <millis>1634524925443</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:21:41</date>
+  <millis>1634617301987</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:21:56</date>
+  <millis>1634617316599</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:28:05</date>
+  <millis>1634617685370</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:29:48</date>
+  <millis>1634617788673</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:34:37</date>
+  <millis>1634618077941</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:36:19</date>
+  <millis>1634618179881</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:39:22</date>
+  <millis>1634618362648</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:40:30</date>
+  <millis>1634618430749</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:41:24</date>
+  <millis>1634618484046</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T00:47:15</date>
+  <millis>1634618835501</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T14:29:18</date>
+  <millis>1634668158083</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T14:34:07</date>
+  <millis>1634668447216</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T14:39:20</date>
+  <millis>1634668760131</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T14:41:40</date>
+  <millis>1634668900565</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T14:47:24</date>
+  <millis>1634669244444</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T14:59:58</date>
+  <millis>1634669998490</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-27T13:17:47</date>
+  <millis>1635355067912</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-27T13:19:12</date>
+  <millis>1635355152435</millis>
+  <sequence>3</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>11</thread>
+  <message>Authentication Server created</message>
+</record>

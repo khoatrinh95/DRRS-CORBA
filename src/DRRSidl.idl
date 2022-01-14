@@ -1,0 +1,15 @@
+module DRRSApp
+{
+    typedef sequence<string> StringList;
+  interface DRRS
+  {
+    string createRoom (in string room_Number, in string date, in string beginTime, in string endTime);
+    string deleteRoom(in string room_Number, in string date, in StringList listOfTimeSlotsIndexFromInputString);
+    string bookRoom(in string studentID, in string campusName, in string roomNumber, in string date, in long timeslot);
+    boolean overLimit (in string studentID);
+    StringList getTimeSlots (in string date, in string room, in string campus);
+    string cancelBooking(in string bookingID, in string studentID);
+    string changeReservation (in string studentID, in string bookingID, in string newCampusName, in string date, in string newRoomNo, in string newTimeSlot);
+    oneway void shutdown();
+    };
+};
